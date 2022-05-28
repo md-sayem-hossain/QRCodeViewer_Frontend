@@ -28,11 +28,12 @@ img{
 .card img{
     border-radius: 15px;
 }
-.card h2{
+.card h1{
 color: var( --dark_blue);
 font-size: 23px;
 }
 .card p{
+    width: 95%;
     color: var( --grayish_blue);
-    font-size: 17px;
+    font-size: 16px;
     }
