@@ -11,11 +11,7 @@ body {
     font-family: 'Outfit', sans-serif;
     background-color: var(--light_gray);
 }
-.attribution{
-    position: fixed;
-    bottom: 0;
-    left: 0; 
- }
+ 
 img{
     width: 100%;
 }
@@ -25,8 +21,8 @@ img{
     background-color: white;
     padding: 15px;
     border-radius: 20px;
-    margin-top: 100px;
-    margin-bottom: 90px;
+    margin-top: 80px;
+    margin-bottom: 80px;
     box-shadow: 3px 6px 10px #4b75e51f;
 }
 .card img{
