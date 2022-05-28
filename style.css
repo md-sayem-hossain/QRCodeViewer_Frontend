@@ -21,7 +21,7 @@ img{
     background-color: white;
     padding: 15px;
     border-radius: 20px;
-    margin-top: 25px;
+    margin-top: 50px;
     margin-bottom: 50px;
     box-shadow: 3px 6px 10px #4b75e51f;
 }
@@ -36,4 +36,7 @@ font-size: 23px;
     width: 95%;
     color: var( --grayish_blue);
     font-size: 16px;
+    }
+    .center-all{
+        text-align: center;
     }
